@@ -1,6 +1,6 @@
 import requests, string
 
-URL = "http://83.136.248.62:38224/index.php"
+URL = "http://blahblah/index.php"
 POSITIVE_STRING = "Login successful"
 EXFILTRATE_USER = 'admin'
 EXFILTRATE_ATTRIBUTE = 'description'
